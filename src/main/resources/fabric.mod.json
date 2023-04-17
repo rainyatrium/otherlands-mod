@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "testmod",
+  "id": "rainyutil",
   "version": "${version}",
 
   "name": "Example Mod",
@@ -19,11 +19,11 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.rainyatrium.testmod.TestMod"
+      "net.rainyatrium.rainyutil.RainyUtil"
     ]
   },
   "mixins": [
-    "testmod.mixins.json"
+    "rainyutil.mixins.json"
   ],
 
   "depends": {

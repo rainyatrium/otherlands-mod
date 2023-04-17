@@ -1,0 +1,19 @@
+{
+	"mtr2.music.pober":{
+		"sounds": [
+			"rainyutil:mtr2/pober"
+		]
+	},
+	"mtr2boner":{
+		"sounds": [
+			"rainyutil:mtr2/boner"
+		],
+		"subtitle": "subtitles.mtr2.boner"
+	},
+	"mtr2boner_secret":{
+		"sounds": [
+			"rainyutil:mtr2/boner_secret"
+		],
+		"subtitle": "subtitles.mtr2.boner.secret"
+	}
+}
