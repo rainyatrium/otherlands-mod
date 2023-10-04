@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "otherlands:block/shrine_catalyst", "uvlock": false },
+    "facing=east":  { "model": "otherlands:block/shrine_catalyst", "y":  90, "uvlock": false },
+    "facing=south": { "model": "otherlands:block/shrine_catalyst", "y": 180, "uvlock": false },
+    "facing=west":  { "model": "otherlands:block/shrine_catalyst", "y": 270, "uvlock": false }
+  }
+}

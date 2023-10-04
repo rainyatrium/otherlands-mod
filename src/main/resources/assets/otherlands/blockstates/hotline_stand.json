@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "otherlands:block/hotline_stand", "uvlock": false },
+    "facing=east":  { "model": "otherlands:block/hotline_stand", "y":  90, "uvlock": false },
+    "facing=south": { "model": "otherlands:block/hotline_stand", "y": 180, "uvlock": false },
+    "facing=west":  { "model": "otherlands:block/hotline_stand", "y": 270, "uvlock": false }
+  }
+}

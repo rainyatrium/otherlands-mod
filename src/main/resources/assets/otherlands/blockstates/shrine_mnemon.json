@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "otherlands:block/shrine_mnemon", "uvlock": false },
+    "facing=east":  { "model": "otherlands:block/shrine_mnemon", "y":  90, "uvlock": false },
+    "facing=south": { "model": "otherlands:block/shrine_mnemon", "y": 180, "uvlock": false },
+    "facing=west":  { "model": "otherlands:block/shrine_mnemon", "y": 270, "uvlock": false }
+  }
+}

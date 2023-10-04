@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "otherlands:item/pober", "uvlock": false },
+    "facing=east":  { "model": "otherlands:item/pober", "y":  90, "uvlock": false },
+    "facing=south": { "model": "otherlands:item/pober", "y": 180, "uvlock": false },
+    "facing=west":  { "model": "otherlands:item/pober", "y": 270, "uvlock": false }
+  }
+}

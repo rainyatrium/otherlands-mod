@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "otherlands:block/moon_rock",
+    "top": "otherlands:block/moon_rock",
+    "side": "otherlands:block/moon_rock"
+  }
+}

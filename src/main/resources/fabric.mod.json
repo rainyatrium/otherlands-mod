@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "id": "rainyutil",
+  "id": "otherlands",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Otherlands Content",
+  "description": "Otherlands content, blocks, etc.",
   "authors": [
     "rainyatrium"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "",
+    "sources": ""
   },
 
   "license": "MIT",
@@ -19,13 +19,16 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.rainyatrium.rainyutil.RainyUtil"
+      "net.rainyatrium.otherlands.Otherlands"
+    ],
+    "client": [
+      "net.rainyatrium.otherlands.OtherlandsClient"
     ]
   },
   "mixins": [
-    "rainyutil.mixins.json"
+    "otherlands.mixins.json"
   ],
-
+  "accessWidener": "otherlands.accesswidener",
   "depends": {
     "fabricloader": ">=0.14.6",
     "fabric": "*",

@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "otherlands:acacia_table",
+    "otherlands:araucaria_table",
+    "otherlands:birch_table",
+    "otherlands:crimson_table",
+    "otherlands:dark_oak_table",
+    "otherlands:jungle_table",
+    "otherlands:oak_table",
+    "otherlands:spruce_table",
+    "otherlands:warped_table"
+  ]
+}
+

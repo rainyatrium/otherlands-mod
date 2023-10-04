@@ -1,0 +1,10 @@
+{
+	"parent": "otherlands:block/table/table",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/stripped_acacia_log",
+		"1": "block/stripped_acacia_log_top",
+		"2": "block/acacia_planks",
+		"particle": "block/stripped_acacia_log"
+	}
+}

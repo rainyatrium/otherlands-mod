@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "otherlands:item/taylor_swift_music_disc"
+  }
+}

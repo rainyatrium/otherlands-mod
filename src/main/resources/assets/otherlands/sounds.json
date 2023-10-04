@@ -1,0 +1,35 @@
+{
+	"mtr2.music.pober":{
+		"sounds": [
+			"otherlands:mtr2/pober"
+		]
+	},
+	"mtr2boner":{
+		"sounds": [
+			"otherlands:mtr2/boner"
+		],
+		"subtitle": "subtitles.mtr2.boner"
+	},
+	"mtr2boner_secret":{
+		"sounds": [
+			"otherlands:mtr2/boner_secret"
+		],
+		"subtitle": "subtitles.mtr2.boner.secret"
+	},
+	"youbelongwithme":{
+		"sounds": [
+			{
+				"name": "otherlands:records/youbelongwithme",
+				"stream": true
+			}
+		]
+	},
+	"vaivedrai":{
+		"sounds": [
+			{
+				"name": "otherlands:records/vaivedrai",
+				"stream": true
+			}
+		]
+	}
+}

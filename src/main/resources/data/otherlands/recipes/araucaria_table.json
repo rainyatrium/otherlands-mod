@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "stumped:araucaria_planks"
+    }
+  },
+  "result": {
+    "item": "otherlands:araucaria_table",
+    "count": 4
+  }
+}

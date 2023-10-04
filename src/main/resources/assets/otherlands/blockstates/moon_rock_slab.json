@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "otherlands:block/moon_rock_slab"
+    },
+    "type=double": {
+      "model": "otherlands:block/moon_rock_block"
+    },
+    "type=top": {
+      "model": "otherlands:block/moon_rock_slab_top"
+    }
+  }
+}

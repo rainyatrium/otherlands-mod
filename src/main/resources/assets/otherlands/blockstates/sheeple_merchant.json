@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=south": { "model": "otherlands:block/sheeplemerchant", "uvlock": false },
+    "facing=west":  { "model": "otherlands:block/sheeplemerchant", "y":  90, "uvlock": false },
+    "facing=north": { "model": "otherlands:block/sheeplemerchant", "y": 180, "uvlock": false },
+    "facing=east":  { "model": "otherlands:block/sheeplemerchant", "y": 270, "uvlock": false }
+  }
+}
